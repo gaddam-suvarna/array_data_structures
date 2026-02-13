@@ -24,16 +24,5 @@ public class AlternateElements {
 
     }
 
-//Static allocation
-     /*static int arr[] = {10,20,30,40,50};
-    // Iterate over all alternate elements
-    public static void main(String[] args) {
-        System.out.println("Alternate numbers from array");
 
-        System.out.println(arr[0]);
-        System.out.println(arr[2]);
-        System.out.println(arr[4]);
-
-
-        }*/
 
